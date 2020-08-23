@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin-top: 0;
+  color: #5eaaa8;
+  font-family: 'Sacramento', cursive;
+}
+.top{
+  padding:100px;
+  background-color: #e0ece4;
+}
+
+.Top-cloud{
+  position:absolute;
+  left: 800px;
+  bottom: 500px;
+}
+.Bottom-cloud{
+  position: absolute;
+  left: 100px;
+}
+#Mountain{
+  position: relative;
+  left:150px;
+}
+p{
+  color: #5eaaa8;
+}
